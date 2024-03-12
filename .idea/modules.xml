@@ -3,6 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-2/day02-2.iml" filepath="$PROJECT_DIR$/day02-2/day02-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03-2/day03-2.iml" filepath="$PROJECT_DIR$/day03-2/day03-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04-2.iml" filepath="$PROJECT_DIR$/day04-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day04-2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/day04-2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day04-2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/day04-2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day04-practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/day04-practice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day04-practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/day04-practice.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_practice.iml" filepath="$PROJECT_DIR$/day04_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day04_practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/day04_practice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/day04_practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/day04_practice.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem/problem.iml" filepath="$PROJECT_DIR$/problem/problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/디지털하나로.iml" filepath="$PROJECT_DIR$/디지털하나로.iml" />
     </modules>
   </component>
